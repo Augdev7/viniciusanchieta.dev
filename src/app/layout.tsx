@@ -26,6 +26,9 @@ export const metadata: Metadata = {
       }
     ]
   },
+  viewport: "width=device-width, initial-scale=1.0",
+      manifest: "/clients/tvvest/manifest.json",
+      themeColor: "#ffffff",
   icons: [
     {
       url: '/favicon.png',
